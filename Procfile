@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT khusimartgmailcom_khu_844.wsgi:application
